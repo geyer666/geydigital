@@ -7,6 +7,9 @@
     <loc>https://geydigital.de/nzboctopus/</loc>
   </url>
   <url>
+    <loc>https://geydigital.de/trusttime/</loc>
+  </url>
+  <url>
     <loc>https://geydigital.de/support/</loc>
   </url>
   <url>
@@ -14,5 +17,11 @@
   </url>
   <url>
     <loc>https://geydigital.de/datenschutz/</loc>
+  </url>
+  <url>
+    <loc>https://geydigital.de/datenschutz/nzboctopus/</loc>
+  </url>
+  <url>
+    <loc>https://geydigital.de/datenschutz/trusttime/</loc>
   </url>
 </urlset>

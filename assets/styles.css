@@ -528,6 +528,10 @@ h3 {
   overflow: hidden;
 }
 
+.app-card + .app-card {
+  margin-top: 1rem;
+}
+
 .app-card h3 {
   font-size: 1.8rem;
 }
@@ -576,6 +580,15 @@ h3 {
 
 .app-symbol {
   padding: 1.5rem;
+}
+
+.trusttime-symbol {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1;
+  border-radius: 4px;
+  background: #020404;
+  filter: drop-shadow(0 0 22px rgba(0, 242, 255, 0.18));
 }
 
 .two-column {
